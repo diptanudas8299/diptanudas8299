@@ -33,9 +33,10 @@ Currently, I’m focusing on building **scalable full stack projects**, explorin
 ---
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn][(https://www.linkedin.com/in/diptanu-das-39662a141/)]
-- 💡 [LeetCode](https://leetcode.com/u/diptanu8794/)  
-- 📧 Email: **diptanudas8299@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diptanu-das-39662a141/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/diptanu8794/)
+[![Gmail](https://img.shields.io/badge/Email-Diptanu%20Das-red?style=for-the-badge&logo=gmail)](mailto:diptanudas8299@gmail.com)
+
 
 ---
 
