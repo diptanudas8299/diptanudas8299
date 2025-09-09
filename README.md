@@ -1,11 +1,37 @@
-# Hi, I'm Diptanu Das 👋  
+# 👋 Hi, I'm Diptanu Das  
 
 💻 **Full Stack Developer | Java & DSA Enthusiast**  
 
 I’m a passionate developer with a strong foundation in **Java, Data Structures & Algorithms**, and hands-on experience in the **MERN stack**.  
-Currently, I’m focusing on building **scalable full stack projects**, exploring **cloud deployment**, and sharpening my **problem-solving skills**.  
+Currently, I’m building **scalable full stack projects**, exploring **cloud deployment (AWS, Render, Vercel)**, and sharpening my **problem-solving skills** on platforms like LeetCode.  
 
 ---
+## 🏆 Achievements  
+
+<p align="center">
+  <!-- Coding & DSA -->
+  <img src="https://img.shields.io/badge/100%2B-DSA%20Problems%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Active%20Learner-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-DSA%20Certified-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+
+  <!-- Certifications -->
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-React%20Certified-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-Java%20DSA%20Certified-orange?style=for-the-badge&logo=java&logoColor=white" />
+
+  <!-- Open Source & Projects -->
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Projects%20Deployed-green?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ride%20Sharing-App%20Built-yellow?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/50%2B-GitHub%20Commits-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributed-Open%20Source-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+
+  <!-- Learning -->
+  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+
 ## 🛠 Tech Stack  
 
 <p align="center">
@@ -50,16 +76,24 @@ Currently, I’m focusing on building **scalable full stack projects**, explorin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diptanudas8299&show_icons=true&theme=tokyonight" alt="Diptanu's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptanudas8299&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diptanudas8299&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diptanu-das-39662a141/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/diptanu8794/)  
-[![Gmail](https://img.shields.io/badge/Email-Diptanu%20Das-red?style=for-the-badge&logo=gmail)](mailto:diptanudas8299@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/diptanu-das-39662a141/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/diptanu8794/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:diptanudas8299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>  
 
 ---
 
